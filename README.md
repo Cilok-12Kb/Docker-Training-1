@@ -153,18 +153,17 @@ Klik Enable Object Cache
 
 ## 📸 Lampiran
 
-1. **Halaman Instalasi**
-   ![Halaman Instalasi](image/Halaman_Instalasi.png)
+### 1. Halaman Instalasi
+![Halaman Instalasi](image/Halaman_Instalasi.png)
 
-2. **Halaman Dashboard**
-   ![Halaman Dashboard](image/Halaman_Dasboard.png)
+### 2. Halaman Dashboard
+![Halaman Dashboard](image/Halaman_Dasboard.png)
 
-3. **Docker Container**
-   ![Docker Container](image/3file_Container.png)
+### 3. Docker Container
+![Docker Container](image/3file_Container.png)
 
-4. **Redis Ping**
-   ![Redis Ping](image/ping_redis.png)
-
+### 4. Redis Ping
+![Redis Ping](image/ping_redis.png)
 ---
 
 ## ❓ Pertanyaan

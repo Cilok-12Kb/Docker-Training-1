@@ -164,6 +164,7 @@ Klik Enable Object Cache
 
 ### 4. Redis Ping
 ![Redis Ping](./image/ping_redis.png)
+
 ---
 
 ## ❓ Pertanyaan

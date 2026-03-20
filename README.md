@@ -154,16 +154,16 @@ Klik Enable Object Cache
 ## 📸 Lampiran
 
 ### 1. Halaman Instalasi
-![Halaman Instalasi](https://github.com/Cilok-12Kb/Docker-Training-1/blob/main/image/Halaman_Instalasi.png)
+![Halaman Instalasi](./image/Halaman_Instalasi.png)
 
 ### 2. Halaman Dashboard
-![Halaman Dashboard](https://github.com/Cilok-12Kb/Docker-Training-1/blob/main/image/Halaman_Dasboard.png)
+![Halaman Dashboard](./image/Halaman_Dasboard.png)
 
 ### 3. Docker Container
-![Docker Container](https://github.com/Cilok-12Kb/Docker-Training-1/blob/main/image/3file_Container.png)
+![Docker Container](./image/3file_Container.png)
 
 ### 4. Redis Ping
-![Redis Ping](https://github.com/Cilok-12Kb/Docker-Training-1/blob/main/image/ping_redis.png)
+![Redis Ping](./image/ping_redis.png)
 
 ---
 
